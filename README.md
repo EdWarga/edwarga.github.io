@@ -1,3 +1,2 @@
-# edwarga.github.io
-Pages Repository
-This is a readme
+# Ed Warga's Page
+This is my page!
