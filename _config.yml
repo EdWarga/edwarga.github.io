@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Setup
+title:            Ed Warga's Site
+tagline:          'so far, so good'
+description:      
+url:              http://edwarga@github.io
+baseurl:          /
+
+author:
+  name:           'Ed Warga'
+  url:            https://twitter.com/mrwargames
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           
+
+theme: jekyll-theme-minimal
