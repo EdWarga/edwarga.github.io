@@ -7,7 +7,7 @@
 <webMaster>edward.warga@gmail.com (Ed Warga)</webMaster>
 <managingEditor>edward.warga@gmail.com (Ed Warga)</managingEditor>
 <image>
-<url>http://www.YourSite.com/ImageSize300X300.jpg</url>
+<url>https://raw.githubusercontent.com/EdWarga/edwarga.github.io/master/images/edWargaPodcastImage.jpg</url>
 <title>photo of a book spine reading Aquatic Science and Fisheries Abstracts</title>
 <link>http://edwarga.github.io</link>
 </image>
@@ -19,7 +19,7 @@
 <itunes:keywords>existentialism, transcendental, drone rock, space</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://raw.githubusercontent.com/EdWarga/edwarga.github.io/master/images/edWargaPodcastImage.jpg" />
-<atom:link href="http://www.YourSite.com/feed.xml" rel="self" type="application/rss+xml" />
+<atom:link href="http://edwarga.github.io/feed.xml" rel="self" type="application/rss+xml" />
 <pubDate>Thu May 16 22:38:20 CDT 2019</pubDate>
 <title>The Ed Warga Podcast, Yo!</title>
 <itunes:author>ed warga</itunes:author>
