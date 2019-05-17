@@ -45,7 +45,7 @@
 <itunes:subtitle>episode 2</itunes:subtitle>
 <itunes:category text="Society &amp; Culture"/>
 <enclosure url="https://raw.github.com/EdWarga/edwarga.github.io/blob/master/media/HundredsOfMillionsOfDollars.wav" type="audio/mpeg" length="0" />
-<guid>https://github.com/EdWarga/edwarga.github.io/blob/master/media/HundredsOfMillionsOfDollars.wav</guid>
+<guid>https://raw.githubusercontent.com/EdWarga/edwarga.github.io/master/media/HundredsOfMillionsOfDollars.mp3</guid>
 <itunes:duration>00:00:01</itunes:duration>
 <pubDate>Thu May 16 22:38:20 CDT 2019</pubDate>
 </item>
