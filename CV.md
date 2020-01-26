@@ -2,7 +2,6 @@
 layout: default
 title: Isaac Newtons's CV
 permalink: /cv/
-style:kjhealy
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
