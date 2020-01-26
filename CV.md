@@ -3,27 +3,27 @@ layout: cv
 title: Isaac Newtons's CV
 permalink: /cv/
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ed Warga
+⚡**Digital Librarian**⚡
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:edward.warga@tamucc.edu">Email Me!</a>
+<a href:"https://edwarga.github.io">Ed Warga's Website</a>
+<a href="https://guides.library.tamucc.edu/prf.php?account_id=117290">library liaison profile</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Digital Collections Librarian and Science Liaison at the Mary and Jeff Bell Library, Texas A&M Univiersty Corpus Christi.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Digital Collections
+Metadata
+Linked Open Data
+Bibliometrics
 
 
 ## Education
